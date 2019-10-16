@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP security integration system
 tags: example-tag
 level: 4
-type: tool
 
 ---
 
