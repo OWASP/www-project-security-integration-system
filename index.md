@@ -1,11 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP security integration system
+title: OWASP Security Integration System
 tags: example-tag
 level: 0
 type: tool
 
+
+auto-migrated: 1
 
 auto-migrated: 1
 
