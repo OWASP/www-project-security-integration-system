@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Michael Bergman](mailto://)
+* [Michael Bergman](mailto:)
