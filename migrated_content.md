@@ -24,10 +24,10 @@ type: tool
 <p><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here</a></p>
 <h2 id="what_is_the_scat">What is the SCAT</h2>
 <ul>
-<li>SCAT is a <span style="text-decoration:underline;">process integrity tool</span>, implementing a consistent, authorized and auditable software development process</li>
+<li>SCAT is a <span style="text-decoration:underline;">process integrity tool</span>, its objective is to implementing a Software development process that is consistent, authorized and auditable</li>
 <li>SCAT is used by development teams to build, verify and assure secure software
 <ul>
-<li><strong>Build</strong>: uses a combination of code level guidance, on demand training and DAST tools to train, guide and verify correct implementation</li>
+<li><strong>Build</strong>: uses a combination of code level guidance and on demand training to clearly define the security requirments before development begins and guide softwrae developers towards its correct implementation</li>
 <li><strong>Verify</strong>: uses a combination of manual test plans and SATS tools to guide and verify correct implementation</li>
 <li><strong>Assure</strong>: centrally stores and publishes evidence of secure development and testing as an audit trail. Providing traceability through requirements and proving that security <span style="text-decoration:underline;">controls operate efficiently over a period of time</span></li>
 </ul></li>
