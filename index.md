@@ -10,7 +10,7 @@
 <tbody>
 <tr class="odd">
 <h1>
-<p><b>What is the SCAT</b></p>
+<p><b>What is the SCAT tttt</b></p>
 </h1>
 <p><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here</a></p>
 <h2 id="what_is_the_scat">What is the SCAT</h2>
