@@ -10,9 +10,9 @@ type: tool
 ---
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
-![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
-"OWASP_Project_Header.jpg")
-
+<figure>
+<img src="/assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" width="800" />
+  
 </div>
 
 <table>
@@ -24,18 +24,18 @@ type: tool
 <p><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here</a></p>
 <h2 id="what_is_the_scat">What is the SCAT</h2>
 <ul>
-<li>SCAT is a <span style="text-decoration:underline;">process integrity tool</span>, implementing a consistent, authorized and auditable software development process</li>
+<li>SCAT is a <span style="text-decoration:underline;">process integrity tool</span>, its objective is to implementing a Software development process that is consistent, authorized and auditable</li>
 <li>SCAT is used by development teams to build, verify and assure secure software
 <ul>
-<li><strong>Build</strong>: uses a combination of code level guidance, on demand training and DAST tools to train, guide and verify correct implementation</li>
+<li><strong>Build</strong>: uses a combination of code level guidance and on demand training to clearly define the security requirments before development begins and guide softwrae developers towards its correct implementation</li>
 <li><strong>Verify</strong>: uses a combination of manual test plans and SATS tools to guide and verify correct implementation</li>
 <li><strong>Assure</strong>: centrally stores and publishes evidence of secure development and testing as an audit trail. Providing traceability through requirements and proving that security <span style="text-decoration:underline;">controls operate efficiently over a period of time</span></li>
 </ul></li>
-<li>SCAT is <span style="text-decoration:underline;">not a point in time security verification tool </span>for detecting vulnerabilities after development</li>
+<li>SCAT is <strong>not a point in time security verification tool </strong>for detecting vulnerabilities after development</li>
 </ul>
 <h2 id="process_integrity_and_point_in_time_tools_how_they_work_in_the_sdlc">Process integrity and point in time tools: How they work in the SDLC</h2>
 <figure>
-<img src="Process_integrity_VS_point_in_time_without_check.png" title="Process_integrity_VS_point_in_time_without_check.png" alt="Process_integrity_VS_point_in_time_without_check.png" width="800" /><figcaption>Process_integrity_VS_point_in_time_without_check.png</figcaption>
+<img src="/assets/images/Process_integrity_VS_point_in_time_without_check.png" title="Process_integrity_VS_point_in_time_without_check.png" alt="Process_integrity_VS_point_in_time_without_check.png" width="800" /><figcaption>Process integrity tool VS point in time verification tool</figcaption>
 </figure>
 <h1>
 <p><b>Technical Description</b></p>
