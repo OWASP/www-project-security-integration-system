@@ -9,29 +9,27 @@
 <table>
 <tbody>
 <tr class="odd">
-<h1>
-<p><b>What is the SCAT</b></p>
-</h1>
+
 <p><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here</a></p>
-<h2 id="what_is_the_scat">What is the SCAT</h2>
+<h2>What is the SCAT</h2>
 <ul>
 <li>SCAT is a <span style="text-decoration:underline;">process integrity tool</span>, its objective is to implementing a Software development process that is consistent, authorized and auditable</li>
 <li>SCAT is used by development teams to build, verify and assure secure software
 <ul>
-<li><strong>Build</strong>: uses a combination of code level guidance and on demand training to clearly define the security requirments before development begins and guide softwrae developers towards its correct implementation</li>
+<li><strong>Build</strong>: uses a combination of code level guidance and on demand training to clearly define the security requirments before development begins and guide software developers towards its correct implementation</li>
 <li><strong>Verify</strong>: uses a combination of manual test plans and SATS tools to guide and verify correct implementation</li>
 <li><strong>Assure</strong>: centrally stores and publishes evidence of secure development and testing as an audit trail. Providing traceability through requirements and proving that security <span style="text-decoration:underline;">controls operate efficiently over a period of time</span></li>
 </ul></li>
 <li>SCAT is <strong>not a point in time security verification tool </strong>for detecting vulnerabilities after development</li>
 </ul>
-<h2 id="process_integrity_and_point_in_time_tools_how_they_work_in_the_sdlc">Process integrity and point in time tools: How they work in the SDLC</h2>
+<h2>Process integrity and point in time tools: How they work in the SDLC</h2>
 <figure>
 <img src="/assets/images/Process_integrity_VS_point_in_time_without_check.png" title="Process_integrity_VS_point_in_time_without_check.png" alt="Process_integrity_VS_point_in_time_without_check.png" width="800" /><figcaption>Process integrity tool VS point in time verification tool</figcaption>
 </figure>
 <h1>
 <p><b>Technical Description</b></p>
 </h1>
-<h2 id="without_further_complicating_development_environment">Without further complicating development environment</h2>
+<h2>Without further complicating development environment</h2>
 <ul>
 <li>SCAT is a simple 5 screen MVC, C# web application with a small footprint that can be deployed without further complicating development environment</li>
 <li>Integrates with Jira and runs ZAP and SonarQube in docker containers</li>
@@ -40,7 +38,7 @@
 <p><b>See how developers use SCAT</b></p>
 </h1>
 <p>See below how the Secure code assurance tool integrates security into software development phases</p>
-<h2 id="sprint_planning_phase">Sprint planning phase</h2>
+<h2>Sprint planning phase</h2>
 <p><b>Objective</b>: Ensures security requirements are understood<br />
 </p>
 <ul>
@@ -64,7 +62,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="development_phase">Development phase</h2>
+<h2>Development phase</h2>
 <p><b>Objective</b>: Ensure correct implementation of security requirements<br />
 </p>
 <ul>
@@ -82,7 +80,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="secure_code_review_phase">Secure code review phase</h2>
+<h2>Secure code review phase</h2>
 <p><b>Objective</b>: Ensure correct implementation of security requirements<br />
 </p>
 <ul>
@@ -97,7 +95,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="testing_phase">Testing phase</h2>
+<h2>Testing phase</h2>
 <p><b>Objective</b>: Ensure valid security testing<br />
 </p>
 <ul>
@@ -112,7 +110,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="approval_phase">Approval phase</h2>
+<h2>Approval phase</h2>
 <p><b>Objective</b>: Streamline the approval and audit process<br />
 </p>
 <ul>
@@ -127,7 +125,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="risk_management">Risk management</h2>
+<h2>Risk management</h2>
 <p><b>Objective</b>: Enable risk managers to prioritise, plan and monitor mitigation efforts<br />
 </p>
 <ul>
@@ -151,7 +149,7 @@
 <p><b>Preparation phase</b></p>
 </h1>
 <p>When developing secure software we need to consider both standard secure code and client specific architectural requirements</p>
-<h2 id="standard_secure_code_requirements">Standard secure code requirements</h2>
+<h2>Standard secure code requirements</h2>
 <ul>
 <li>SCAT comes out the box with a standard OWASP secure code requirements map. This mapping need to be modified to the specific organisation requirements</li>
 </ul>
@@ -168,7 +166,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="client_specific_architectural_requirements">Client specific architectural requirements</h2>
+<h2>Client specific architectural requirements</h2>
 <ul>
 <li>To generate these requirements we perform a risk assessment on client application landscape and identify</li>
 </ul>
@@ -196,14 +194,14 @@
 <h1>
 <p>Project information</p>
 </h1>
-<h2 id="licensing">Licensing</h2>
+<h2>Licensing</h2>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
-<h2 id="interested_in_contributing">Interested in contributing</h2>
+<h2>Interested in contributing</h2>
 <p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Please send a connect request with subject SCAT</a></p>
-<h2 id="project_resources">Project Resources</h2>
+<h2>Project Resources</h2>
 <p>[Installation Package]</p>
 <p>[Source Code]</p>
-<h2 id="project_leader">Project Leader</h2>
+<h2>Project Leader</h2>
 <p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Michael Bergman LinkedIn</a></p></td>
 </tr>
 </tbody>
