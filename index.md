@@ -1,39 +1,39 @@
 
 <figure>
- <img src="./assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" width="800" />
-  <figcaption>Process integrity tool</figcaption>
+ <img src="./assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" />
 </figure>
 
+<li>Table of content</li>
 <ol>
-      <li>What is the SCAT process integrity tool and how does it work</li>
-      <li>See how development teams use the SCAT process integrity tool </li>
-      <li>Customising the SCAT process integrity tool to your development environment.</li>
-      <Li><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here.</a> </li>
-   </ol>
+   <li>What is the SCAT process integrity tool and how does it work</li>
+   <li>See how development teams use the SCAT process integrity tool </li>
+   <li>Customising the SCAT process integrity tool to your development environment.</li>
+   <Li><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here.</a> </li>
+</ol>
 
 
-   <h1>What is the SCAT process integrity tool and how does it work</h1>
-   <h2>What</h2>
-       <li> Writing secure code is only one of the five esential security components that comprise a "Secure Software development process.</li>
-       <li> The five esential security components of a "Secure Software development process are:</li>
-       <ol>  
-           <li>Security governance: Consistant and predictable output, where teams know what to do and when it must be done.</li>
-           <li>IT risk management: Defined criticality and priority.</li>
-           <li>Security requirements: In proportion to criticality.</li>
-           <li>Writing secure code: Correctly and completely implementing the security requirements.</li>
-           <li>Assurance: Evidence of correct and complete implemention.</li>
-       </ol>
-       <li>SCAT functions as a process integrity tool to overlay the SDLC and implement these esential security components.</li>
+ <h1>What is the SCAT process integrity tool and how does it work</h1>
+ <h2>What</h2>
+ <li> Writing secure code is only one of the five esential security components that comprise a "Secure Software development process.</li>
+ <li> The five esential security components of a "Secure Software development process are:</li>
+ <ol>  
+     <li>Security governance: Consistant and predictable output, where teams know what to do and when it must be done.</li>
+     <li>IT risk management: Defined criticality and priority.</li>
+     <li>Security requirements: In proportion to criticality.</li>
+     <li>Writing secure code: Correctly and completely implementing the security requirements.</li>
+     <li>Assurance: Evidence of correct and complete implemention.</li>
+ </ol>
+ <li>SCAT functions as a process integrity tool to overlay the SDLC and implement these esential security components.</li>
+
    
-   
-   <h2>How</h2>
-      <li>SCAT process integrity tool enforces a Secure software development process and enables development teams to build, verify and assure secure software.</li>
-      <ol>  
-          <li><strong>Build</strong>: Integrates a combination of code level guidance and on demand training to define the security requirments before development begins and guide software developers towards its correct implementation.</li>
-          <li><strong>Verify</strong>: Integrates point in time security verification tools to verify that the security requirments are met.</li>
-          <li><strong>Assure</strong>: Integrates an audit trail to centrally store evidence of secure development and testing. Providing traceability through requirements and proving that security requirements were implemented correctly and will operate efficiently over a period of time.</li>
-      </ol>
-    <figure><img src="./assets/images/ProcessIntegrityVSPointInTime4.png" alt="SCAT Process integrity VS point in time vulnerabilty scanning tools" width="800" /><p/></figure>
+ <h2>How</h2>
+    <li>SCAT process integrity tool enforces a Secure software development process and enables development teams to build, verify and assure secure software.</li>
+    <ol>  
+        <li><strong>Build</strong>: Integrates a combination of code level guidance and on demand training to define the security requirments before development begins and guide software developers towards its correct implementation.</li>
+        <li><strong>Verify</strong>: Integrates point in time security verification tools to verify that the security requirments are met.</li>
+        <li><strong>Assure</strong>: Integrates an audit trail to centrally store evidence of secure development and testing. Providing traceability through requirements and proving that security requirements were implemented correctly and will operate efficiently over a period of time.</li>
+    </ol>
+  <figure><img src="./assets/images/ProcessIntegrityVSPointInTime4.png" alt="SCAT Process integrity VS point in time vulnerabilty scanning tools" width="800" /><p/></figure>
 
    <h1>See how development teams use the SCAT process integrity tool</h1>
    <h2>Sprint planning phase</h2>
