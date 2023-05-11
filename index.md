@@ -1,7 +1,7 @@
 
 <figure>
- <img src="/assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" width="800" />
-  <figcaption>Process integrity tool VS point in time verification tool</figcaption>
+ <img src="./assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" width="800" />
+  <figcaption>Process integrity tool</figcaption>
 </figure>
 
 <table>
