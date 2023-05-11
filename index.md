@@ -11,10 +11,7 @@
       <Li><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here.</a> </li>
    </ol>
 
-<table>
- <tbody>
-  <tr class="odd">
-  <td>
+
    <h1>What is the SCAT process integrity tool and how does it work</h1>
    <h2>What</h2>
        <li> Writing secure code is only one of the five esential security components that comprise a "Secure Software development process.</li>
@@ -37,15 +34,7 @@
           <li><strong>Assure</strong>: Integrates an audit trail to centrally store evidence of secure development and testing. Providing traceability through requirements and proving that security requirements were implemented correctly and will operate efficiently over a period of time.</li>
       </ol>
     <figure><img src="./assets/images/ProcessIntegrityVSPointInTime4.png" alt="SCAT Process integrity VS point in time vulnerabilty scanning tools" width="800" /><p/></figure>
-</td>
-</tr>
-</tbody>
-</table>
 
-<table>
- <tbody>
-  <tr class="odd">
-  <td>
    <h1>See how development teams use the SCAT process integrity tool</h1>
    <h2>Sprint planning phase</h2>
    <p><b>Objective</b>: Generate security requirements before development begins and ensure they are understood<br /></p>
@@ -120,15 +109,7 @@
 <p><a href="https://youtu.be/8pKxorPSq_M">See how the Application landscape overview screen informs risk based decision making</a></p></li>
 
  
-</td>
-</tr>
-</tbody>
-</table> 
- 
-<table>
- <tbody>
-  <tr class="odd">
-  <td>
+
 <h1>Preparation phase</h1>
 <p>When developing secure software we need to consider both standard secure code and client specific architectural requirements</p>
 <h2>Standard secure code requirements</h2>
@@ -157,16 +138,7 @@
 <li>Import these into the SCAT</li>
 </ol>
 <p><a href="https://youtu.be/FD3O2ObYBQs">See how to import organisations specific risks, security requirements, secure code blocks and tests</a></p>
-</td>
-</tr>
-</tbody>
-</table> 
 
-
-<table>
- <tbody>
-  <tr class="odd">
-  <td>
 <h1>
 <p>Project information</p>
 </h1>
@@ -179,7 +151,4 @@
 <p>[Source Code]</p>
 <h2>Project Leader</h2>
 <p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Michael Bergman LinkedIn</a></p></td>
-</td>
-</tr>
-</tbody>
-</table>
+
