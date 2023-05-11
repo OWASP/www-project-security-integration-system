@@ -1,10 +1,8 @@
----
-<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
 <figure>
-<img src="/assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" width="800" />
-  
-</div>
+ <img src="/assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" width="800" />
+  <figcaption>Process integrity tool VS point in time verification tool</figcaption>
+</figure>
 
 <table>
 <tbody>
@@ -14,7 +12,7 @@
   <a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here.</a>
 </p>
 <h2>What is the SCAT</h2>
-<li>SCAT is a process integrity tool, its objective is to implementing a Software development process that is consistent, authorized and auditable</li>
+* SCAT is a process integrity tool, its objective is to implementing a Software development process that is consistent, authorized and auditable
 <li>SCAT is used by development teams to build, verify and assure secure software
 <li><strong>Build</strong>: uses a combination of code level guidance and on demand training to clearly define the security requirments before development begins and guide software developers towards its correct implementation</li>
 <li><strong>Verify</strong>: uses a combination of manual test plans and SATS tools to guide and verify correct implementation</li>
