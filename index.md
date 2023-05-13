@@ -1,8 +1,14 @@
-
+<table>
+ <tr>
+  <td>
 <figure>
  <img src="./assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" />
 </figure>
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
+ 
 <li>Table of content</li>
 <ol>
    <li>What is the SCAT process integrity tool and how does it work</li>
@@ -10,7 +16,10 @@
    <li>Customising the SCAT process integrity tool to your development environment.</li>
    <Li><a href="https://www.linkedin.com/pulse/secure-code-assurance-tool-scat-version-20-michael-bergman/">For more information on the <b>why</b> behind the SCAT, read my linkedIn Article here.</a> </li>
 </ol>
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
 
  <h1>What is the SCAT process integrity tool and how does it work</h1>
  <h2>What</h2>
@@ -25,7 +34,10 @@
  </ol>
  <li>SCAT functions as a process integrity tool to overlay the SDLC and implement these esential security components.</li>
 
-   
+   </td>
+   </tr>
+ <tr>
+  <td>    
  <h2>How</h2>
     <li>SCAT process integrity tool enforces a Secure software development process and enables development teams to build, verify and assure secure software.</li>
     <ol>  
@@ -34,8 +46,15 @@
         <li><strong>Assure</strong>: Integrates an audit trail to centrally store evidence of secure development and testing. Providing traceability through requirements and proving that security requirements were implemented correctly and will operate efficiently over a period of time.</li>
     </ol>
   <figure><img src="./assets/images/ProcessIntegrityVSPointInTime4.png" alt="SCAT Process integrity VS point in time vulnerabilty scanning tools" width="800" /><p/></figure>
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
    <h1>See how development teams use the SCAT process integrity tool</h1>
+      </td>
+   </tr>
+ <tr>
+  <td> 
    <h2>Sprint planning phase</h2>
    <p><b>Objective</b>: Generate security requirements before development begins and ensure they are understood<br /></p>
    <li><b>Developers</b> use the <b>Identify risks</b> screen to<br /></li>
@@ -51,7 +70,11 @@
   </ol> 
   <a href="https://youtu.be/Gpk4K5keLyw">See how to use the tools and its internal mapping to generate security requirements</a>
 
- 
+   </td>
+   </tr>
+ <tr>
+  <td> 
+   
   <h2>Development phase</h2>
   <p><b>Objective</b>: Ensure correct implementation of security requirements<br /></p>
   <li><b>Developers</b> use the <b>Secure development</b> screen to<br />
@@ -63,7 +86,10 @@
        <li>After development run a ZAP basic scan to verify security requirements have been correctly implemented</li>
     </ol>
    <p><a href="https://youtu.be/1pSatE_7mEs">See how the tool helps developers understand security requirements and write secure code</a></p></li>
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
 
 <h2>Secure code review phase</h2>
 <p><b>Objective</b>: Ensure correct implementation of security requirements<br /></p>
@@ -74,7 +100,10 @@
 </ol>
 <p><a href="https://youtu.be/ygre0SrWxD4">See how the tool verifies correct security requirements implementation</a></p></li>
 
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
 <h2>Testing phase</h2>
 <p><b>Objective</b>: Ensure valid security testing<br /></p>
 <li><b>Testers</b> use the <b>Secure testing</b> screen to<br />
@@ -84,7 +113,10 @@
 </ol>
  <p><a href="https://youtu.be/QdbCzheceUw">See how the tool helps testers test risk mitigation efforts</a></p></li>
 
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
 
 <h2>Approval phase</h2>
 <p><b>Objective</b>: Streamline the approval and audit process<br /></p>
@@ -95,7 +127,10 @@
 </ol>
 <p><a href="https://youtu.be/oyKK3Mq13B4">See how the tool streamlines the approval process with centrally stored testing evidence</a></p></li>
 
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
 
 <h2>Risk management</h2>
 <p><b>Objective</b>: Enable risk managers to prioritise, plan and monitor mitigation efforts<br /></p>
@@ -109,7 +144,12 @@
 <p><a href="https://youtu.be/8pKxorPSq_M">See how the Application landscape overview screen informs risk based decision making</a></p></li>
 
  
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
+   
+   
 <h1>Preparation phase</h1>
 <p>When developing secure software we need to consider both standard secure code and client specific architectural requirements</p>
 <h2>Standard secure code requirements</h2>
@@ -121,6 +161,11 @@
 <li>Map security test plans to OWASP risks</li>
 </ol>
 <p><a href="https://youtu.be/EkWdAC1sbkE">See how to setup the SCAT's internal mapping</a></p>
+
+   </td>
+   </tr>
+ <tr>
+  <td> 
 
 <h2>Client specific architectural requirements</h2>
 <li>To generate these requirements we perform a risk assessment on client application landscape and identify</li>
@@ -138,7 +183,10 @@
 <li>Import these into the SCAT</li>
 </ol>
 <p><a href="https://youtu.be/FD3O2ObYBQs">See how to import organisations specific risks, security requirements, secure code blocks and tests</a></p>
-
+   </td>
+   </tr>
+ <tr>
+  <td> 
 <h1>
 <p>Project information</p>
 </h1>
@@ -151,4 +199,6 @@
 <p>[Source Code]</p>
 <h2>Project Leader</h2>
 <p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Michael Bergman LinkedIn</a></p></td>
-
+  </td>
+ </tr>
+ </table>
