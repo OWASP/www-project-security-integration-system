@@ -4,10 +4,6 @@
 <figure>
  <img src="./assets/images/OWASP_Project_Header.png" title="SCAT" alt="SCAT" />
 </figure>
-   </td>
-   </tr>
- <tr>
-  <td> 
  
 <li>Table of content</li>
 <ol>
@@ -18,11 +14,20 @@
 </ol>
    </td>
    </tr>
+ 
+ 
+ 
+ 
+ 
  <tr>
   <td> 
 
  <h1>What is the SCAT process integrity tool and how does it work</h1>
- <h2>What</h2>
+      </td>
+   </tr>
+ <tr>
+  <td>  
+ <h2>What</h2> 
  <li> Writing secure code is only one of the five esential security components that comprise a "Secure Software development process.</li>
  <li> The five esential security components of a "Secure Software development process are:</li>
  <ol>  
@@ -33,11 +38,7 @@
      <li>Assurance: Evidence of correct and complete implemention.</li>
  </ol>
  <li>SCAT functions as a process integrity tool to overlay the SDLC and implement these esential security components.</li>
-
-   </td>
-   </tr>
- <tr>
-  <td>    
+ 
  <h2>How</h2>
     <li>SCAT process integrity tool enforces a Secure software development process and enables development teams to build, verify and assure secure software.</li>
     <ol>  
@@ -55,7 +56,7 @@
    </tr>
  <tr>
   <td> 
-   <h2>Sprint planning phase</h2>
+   <h2>Sprint planning phase</h2> 
    <p><b>Objective</b>: Generate security requirements before development begins and ensure they are understood<br /></p>
    <li><b>Developers</b> use the <b>Identify risks</b> screen to<br /></li>
    <ol>
@@ -76,6 +77,7 @@
   <td> 
    
   <h2>Development phase</h2>
+
   <p><b>Objective</b>: Ensure correct implementation of security requirements<br /></p>
   <li><b>Developers</b> use the <b>Secure development</b> screen to<br />
     <ol>
@@ -185,10 +187,16 @@
 <p><a href="https://youtu.be/FD3O2ObYBQs">See how to import organisations specific risks, security requirements, secure code blocks and tests</a></p>
    </td>
    </tr>
- <tr>
+
+
+<tr>
   <td> 
 <h1>
 <p>Project information</p>
+    </td>
+   </tr>
+ <tr>
+  <td>  
 </h1>
 <h2>Licensing</h2>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
@@ -198,7 +206,7 @@
 <p>[Installation Package]</p>
 <p>[Source Code]</p>
 <h2>Project Leader</h2>
-<p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Michael Bergman LinkedIn</a></p></td>
+<p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Michael Bergman LinkedIn</a></p>
   </td>
  </tr>
  </table>
