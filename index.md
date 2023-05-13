@@ -224,4 +224,3 @@ postal-code:
     <p><a href="https://www.linkedin.com/in/michael-bergman-99826212a/">Michael Bergman LinkedIn</a></p>
   </td>
  </tr>
- </table>
