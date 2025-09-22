@@ -1,18 +1,14 @@
 ---
 
 layout: col-sidebar
-title: OWASP Riyadh
-site_side: true
-tags: riyadh
-level: 3
-region: Asia
-currency: Asia
-meetup-group: owasp-riyadh-meetup-group
-country: Kingdom of Saudi Arabia
-postal-code: 
+title: OWASP Security Integration System
+tags: SCAT
+level: 2
+type: documentation
+pitch: SCAT functions as a process integrity tool to overlay the SDLC and implement these esential security components. 
+project: true
 
 ---
-
 
 <table>
   <tr>
